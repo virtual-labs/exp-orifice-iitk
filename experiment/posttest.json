@@ -2,10 +2,44 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Relationship between Orifice diameter and pipe diameter is:<br>(where D is diameter of pipe and d is diameter of Orifice)",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
+        "a": "d = D",
+        "b": "d = 0.5D",
+        "c": "d = 0.25D",
+        "d": "d = 0.1D"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Headloss in an Orifice is more than that of Venturi because of:",
+      "answers": {
+        "a": "Sudden Obstruction",
+        "b": "Shear Stresses",
+        "c": "Friction",
+        "d": "Turbulence"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Bernoulli equation is summation of pressure head, velocity head and datum head.",
+      "answers": {
+        "a": "True",
+        "b": "False",
         "c": "answer3",
         "d": "answer4"
       },
@@ -19,12 +53,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "4. Vena contracta is the point where",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "a. Minimum Velocity and minimum pressure",
+        "b": "b. Maximum Velocity and minimum pressure",
+        "c": "c. Minimum Velocity and maximum pressure",
+        "d": "d. Maximum Velocity and maximum pressureanswer4"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -32,7 +66,24 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. If Orifice plate is not properly designed then _______________ might occur:",
+      "answers": {
+        "a": "Frictional losses",
+        "b": "Cavitation",
+        "c": "Velocity increase",
+        "d": "Pressure increase"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
