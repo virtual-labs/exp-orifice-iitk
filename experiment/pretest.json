@@ -2,12 +2,80 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. An Orifice meter is used to measure: ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Pressure difference of liquid flowing between two locations in a pipe line",
+        "b": "Discharge of liquid flowing in a pipe",
+        "c": "Measure the velocity of a flowing liquid",
+        "d": "Measure the pressure of a flowing liquid"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. An Orifice meter has _____________ energy loss compared to Venturi:",
+      "answers": {
+        "a": "Less",
+        "b": "Greater",
+        "c": "Equal",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. In the case of flow-through orifices, the coefficient of velocity at vena contract is:",
+      "answers": {
+        "a": "Equal to zero",
+        "b": "More than one",
+        "c": "Less than one",
+        "d": "Equal to one"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Discharge Co-efficient (Cd) for an Orifice ranges from:",
+      "answers": {
+        "a": "0.5 < Cd < 0.6answer1",
+        "b": "0.6 < Cd < 0.65",
+        "c": "0.65 < Cd < 0.8answer3",
+        "d": "Cd > 0.8"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Cavitation occurs in an orifice if pressure goes ____________________:",
+      "answers": {
+        "a": "Below liquid vapor pressure",
+        "b": "Above liquid vapor pressureanswer2",
+        "c": "Equal to liquid vapor pressure",
+        "d": "None of the above"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +87,63 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "6. Advantage of an Orifice meter over a Venturi meter is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Cost effectiveanswer1",
+        "b": "Easy installation",
+        "c": "Low maintenance",
+        "d": "Less energy losses"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. An Orifice meter reading are more accurate than that of Venturi meter",
+      "answers": {
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": ""
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. Bernoulli equation is based on:",
+      "answers": {
+        "a": "Conservation of energy",
+        "b": "Conservation of mass",
+        "c": "Both (a) and (b)",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9. Liquid flow rate in large sized pipes can be measured using:",
+      "answers": {
+        "a": "Speedometer",
+        "b": "Lactometer",
+        "c": "Orifice meter",
+        "d": "Elbow meter"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -33,6 +152,23 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10. Assumptions for Bernoulli’s equation:",
+      "answers": {
+        "a": "Incompressible",
+        "b": "Non-viscous",
+        "c": "Steady-State",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
