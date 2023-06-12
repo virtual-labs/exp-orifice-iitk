@@ -85,23 +85,6 @@
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
-    },
-    {
-      "question": "5. If Orifice plate is not properly designed then _______________ might occur:",
-      "answers": {
-        "a": "Frictional losses",
-        "b": "Cavitation",
-        "c": "Velocity increase",
-        "d": "Pressure increase"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "b",
-      "difficulty": "beginner"
     }
   ]
 }
