@@ -16,8 +16,7 @@ A = area of the collecting tank in m<sup>² </sup>
 R = rise of water level taken in meters (say 0.1 m or 10 cm) 
 t = time taken for rise of water level to height ‘R’ in seconds
 Using difference in mercury level “h” calculate the theoretical discharge of Orifice meter by using following expression: 
-Q<sub>theoritical</sub>=  (a<sub>1</sub>×a<sub>2</sub>×2√(g×H))/((√((a<sub>1<sub><sup>2</sup> )-a<sub>2</sub><sup>2</sup>)) )  
 Where, 
-<image src="images/image4.png"><br>
+<image src="images/P1.PNG"><br>
 <b>	Observations – </b><br>
-<image src="images/image5.png"><br>
+<image src="images/P2.PNG"><br>
