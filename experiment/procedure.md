@@ -19,5 +19,7 @@ t = time taken for rise of water level to height ‘R’ in seconds<br>
 Using difference in mercury level “h” calculate the theoretical discharge of Orifice meter by using following expression: <br>
 Where,<br> 
 <image src="images/P1.PNG"><br>
+3. Calculate the coefficient of discharge of orifice meter:<br>
+<image src="images/P3.PNG"><br>
 <b>	Observations – </b><br>
 <image src="images/P2.PNG"><br>
