@@ -22,4 +22,4 @@ Where,<br>
 3. Calculate the coefficient of discharge of orifice meter:<br>
 <image src="images/P3.PNG"><br>
 <b>	Observations – </b><br>
-<image src="images/P2.PNG"><br>
+<image src="images/O1.PNG"><br>
