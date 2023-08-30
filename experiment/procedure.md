@@ -16,7 +16,7 @@ Q<sub>act</sub>=((A×R)/t)
 A = area of the collecting tank in m<sup>² </sup><br>
 R = rise of water level taken in meters (say 0.1 m or 10 cm) <br>
 t = time taken for rise of water level to height ‘R’ in seconds<br>
-Using difference in mercury level “h” calculate the theoretical discharge of Orifice meter by using following expression: <br>
+2. Using difference in mercury level “h” calculate the theoretical discharge of Orifice meter by using following expression: <br>
 Where,<br> 
 <image src="images/P1.PNG"><br>
 3. Calculate the coefficient of discharge of orifice meter:<br>
