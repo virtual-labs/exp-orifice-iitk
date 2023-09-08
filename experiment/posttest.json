@@ -85,6 +85,91 @@
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
+    },
+    {
+      "question": "6) Vena contracta is formed because of:",
+      "answers": {
+        "a": "Temperature gradient",
+        "b": "density change",
+        "c": "inertia of liquid",
+        "d": "Turbulence"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7) The pressure is minimum at ____________ in an Orifice meter. ",
+      "answers": {
+        "a": "Vena Contracta",
+        "b": "Center of Orifice",
+        "c": "Inlet of pipe",
+        "d": "outlet of pipe"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8) Cavitation in an Orifice meter can cause:",
+      "answers": {
+        "a": "Destruction of pipe",
+        "b": "Smoothing of pipe",
+        "c": "No effect on pipe",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9) Discharge co-efficient (C_d) of an Orifice is defined as:",
+      "answers": {
+        "a": "Q<sub>act</sub>- Q<sub>theroitical</sub>",
+        "b": "Q<sub>act</sub>+Q<sub>theroitical</sub>",
+        "c": "Q<sub>act</sub>/Q<sub>theroitical</sub>",
+        "d": "Q<sub>act</sub>*Q<sub>theroitical</sub>"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10) Theoretical velocity (V) of liquid from an orifice meter is given by:",
+      "answers": {
+        "a": "2gh",
+        "b": "0.5gh",
+        "c": "(2gh)<sup>-0.5</sup>",
+        "d": "(0.5gh)<sup>-0.5</sup>"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
     }
   ]
 }
