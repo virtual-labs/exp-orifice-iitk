@@ -85,6 +85,87 @@
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
+    },
+    {
+      "question": "6) Advantage of an Orifice meter over a Venturi meter is:",
+      "answers": {
+        "a": "Cost effective",
+        "b": "Easy installation",
+        "c": "Low maintenance",
+        "d": "Less energy losses"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7) An Orifice meter reading are more accurate than that of Venturi meter",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8) Bernoulli equation is based on:",
+      "answers": {
+        "a": "Conservation of energy",
+        "b": "Conservation of mass",
+        "c": "Both (a) and (b)",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9) Liquid flow rate in large sized pipes can be measured using:",
+      "answers": {
+        "a": "Speedometer",
+        "b": "Lactometer",
+        "c": "Orifice meter",
+        "d": "Elbow meter"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10) Assumptions for Bernoulli’s equation:",
+      "answers": {
+        "a": "Incompressible",
+        "b": "Non-viscous",
+        "c": "Steady-State",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
     }
   ]
 }
