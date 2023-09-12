@@ -87,7 +87,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "6) Advantage of an Orifice meter over a Venturi meter is:",
+      "question": "6. Advantage of an Orifice meter over a Venturi meter is:",
       "answers": {
         "a": "Cost effective",
         "b": "Easy installation",
@@ -104,7 +104,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "7) An Orifice meter reading are more accurate than that of Venturi meter",
+      "question": "7. An Orifice meter reading are more accurate than that of Venturi meter",
       "answers": {
         "a": "True",
         "b": "False"
@@ -117,7 +117,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "8) Bernoulli equation is based on:",
+      "question": "8. Bernoulli equation is based on:",
       "answers": {
         "a": "Conservation of energy",
         "b": "Conservation of mass",
@@ -134,7 +134,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "9) Liquid flow rate in large sized pipes can be measured using:",
+      "question": "9. Liquid flow rate in large sized pipes can be measured using:",
       "answers": {
         "a": "Speedometer",
         "b": "Lactometer",
@@ -151,7 +151,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "10) Assumptions for Bernoulli’s equation:",
+      "question": "10. Assumptions for Bernoulli’s equation:",
       "answers": {
         "a": "Incompressible",
         "b": "Non-viscous",

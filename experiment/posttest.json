@@ -87,7 +87,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "6) Vena contracta is formed because of:",
+      "question": "6. Vena contracta is formed because of:",
       "answers": {
         "a": "Temperature gradient",
         "b": "density change",
@@ -104,7 +104,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "7) The pressure is minimum at ____________ in an Orifice meter. ",
+      "question": "7. The pressure is minimum at ____________ in an Orifice meter. ",
       "answers": {
         "a": "Vena Contracta",
         "b": "Center of Orifice",
@@ -121,7 +121,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "8) Cavitation in an Orifice meter can cause:",
+      "question": "8. Cavitation in an Orifice meter can cause:",
       "answers": {
         "a": "Destruction of pipe",
         "b": "Smoothing of pipe",
@@ -138,7 +138,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "9) Discharge co-efficient (C_d) of an Orifice is defined as:",
+      "question": "9. Discharge co-efficient (C_d) of an Orifice is defined as:",
       "answers": {
         "a": "Q<sub>act</sub>- Q<sub>theroitical</sub>",
         "b": "Q<sub>act</sub>+Q<sub>theroitical</sub>",
@@ -155,7 +155,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "10) Theoretical velocity (V) of liquid from an orifice meter is given by:",
+      "question": "10. Theoretical velocity (V) of liquid from an orifice meter is given by:",
       "answers": {
         "a": "2gh",
         "b": "0.5gh",
