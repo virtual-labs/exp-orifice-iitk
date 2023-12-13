@@ -1,7 +1,7 @@
-<b> Introduction</b><br>
+<b><font style="5"> Introduction</font></b><br>
 <image src="images/image1.png"><br>
 An Orifice meter is a simple device used for measuring the flow rate of liquid flowing through a pipe. It works on a simple principle of pressure differential. This pressure differential is measured with the help of differential manometer which enables the determination of the discharge through the pipe. There is basically an Orifice Plate installed in the orifice meter which provides obstruction to the fluid flow. Here, the streamline contracts because of the area contraction due to orifice which is placed between the pipe by the flange. Differential pressure is developed across the Orifice Plate which is directly proportional to the flow-rate of the liquid or gas.<br><br>
-<b>Components of an Orifice meter Test Rig</U></b><br>
+<b><font style="5">Components of an Orifice meter Test Rig</font></b><br>
 <image src="images/image2.png"><br>
 1. <b>Flow Meter</b><br>
 The test bench consists of flow meter with of size 25 mm for the experiments. The meter has the adequate cocks also with them.<br><br>
