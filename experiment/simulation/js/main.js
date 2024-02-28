@@ -5,7 +5,8 @@ var svg=document.getElementById("Layer_1");
 var valvePositioningText = document.getElementById("valve-positioning-text");
 var manometerText = document.getElementById("manometer-text")
 var count=0
-
+window.appData = window.appData || {};
+window.appData.powerFlag = false;
 // var w1 = document.getElementById("Water_1") 
 var w2 = document.getElementById("Water_3")
 var w3 = document.getElementById("Water_4")
@@ -37,17 +38,11 @@ var svgContainer1 = document.getElementById("svg-container-1");
 var svgElements1 = document.querySelectorAll(".arrow-1");
 
 var animationTimeouts = [];
-
-// function display arrow
-
-
 function displayArrows() {
     svgElements1.forEach(function (element) {
         element.style.animation = "arrowAnimation 1s infinite";       
     });
 }
-
-
 function stopAnimation() {
 
     svgElements1.forEach(function (element) {
@@ -56,77 +51,23 @@ function stopAnimation() {
     });
     
  }
-
-
-// power Button
-
 function power(){
     if(count==0){
         enableButton.style.backgroundColor="#4cae4c"
         document.getElementById("steps").innerHTML="Please wait until the water reaches the Flow Rate Valve."
         enableButton.textContent = "POWER OFF"
         count=1
-
-        // toggle arrow
         waterFlow3()
     }else{
-        enableButton.style.backgroundColor = "#ca2222"
-        document.getElementById("steps").innerHTML = "Step1: Turn Power On"
-        enableButton.textContent = "POWER ON"
-        count = 0
+        if(!window.appData.powerFlag){
+            alert("Please complete the experiment to turn power off!");
+            count=1
+        }else{
+            location.reload()
+        }
     }
 }
 
-function resetAll(){
-    valvePositioningText.textContent = '0'
-    valvePositioning.value = 0
-
-    w1.setAttribute("opacity","0")
-    w2.setAttribute("width","0")
-    w2.setAttribute("opacity","0")
-    w3.setAttribute("opacity","0")
-    w4.setAttribute("width","0")
-    w4.setAttribute("opacity","0")
-
-    clearTimeout(timeoutId4)
-    valvePositioning.disabled = true
-
-    w5.setAttribute("opacity", "0")
-    clearTimeout(timeoutId5)
-    w6.style.opacity=0
-    w7.setAttribute("height","0")
-    w8.setAttribute("opacity", "0")
-    w10.setAttribute("height","0")
-    w9.setAttribute("opacity", "0")
-    
-    w11.setAttribute("width","0")
-    w11.setAttribute("opacity","0")
-    w12.setAttribute("height","0")
-
-    purzeButton.disabled= true;
-
-    stopAnimation()
-
-    arrowRect.setAttribute("y","585.8")
-    arrowPol.setAttribute("points","136.4,581.4 144.5,587.4 136.4,593.4 ")
-    waterTankBack.setAttribute("points","238,516.2 580.8,516.2 580.8,516.2 238,516.2")
-    waterTankFront.setAttribute("opacity","0")
-    waterTankLeft.setAttribute("points","238,516.2 580.8,516.2 580.8,516.2 238,516.2")
-    waterTankBase.setAttribute("opacity","0")
-
-    manometerText.textContent = "0 mm Hg"
-
-    shouldStop=true
-    
-    resetTimer()
-    
-    w13.setAttribute("width","0")
-    w14.setAttribute("height","0")
-
-}
-
-
-// purge action
 valvePositioning.addEventListener("change", updateValvePositioning);
 
 function waterFlow3(){
@@ -432,9 +373,11 @@ function fillTankFront(){
 
 
     setTimeout(function() {
-
-        document.getElementById("steps").innerHTML = "Take note of the current time on the timer, and then readjust the gate valve value using the slider for additional measurements. Finally, use the provided data to calculate Qact, Qth, and Cd."
-        valvePositioning.disabled=false
+        document.getElementById("steps").innerHTML = "Take note of the current time on the timer, and then readjust the gate valve value using the slider for additional readings. Finally, use the provided data to calculate Qact and Qth."
+        purzeButton.disabled = false;
+        if(valvePositioning.value == 3){
+            document.getElementById("steps").innerHTML = "Take note of the current time on the timer and use the provided data to calculate Qact and Qth."
+        }valvePositioning.disabled=false
       }, 3500);
 
 }   

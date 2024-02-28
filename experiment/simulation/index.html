@@ -404,7 +404,7 @@
 						<text transform="matrix(1.0432 0 0 1 1036.8877 74.6123)" class="st21 st22 st23"> </text>
 						<text transform="matrix(1.0432 0 0 1 1074.4434 74.6123)" class="st21 st22">Valve </text>
 						<text transform="matrix(1.0432 0 0 1 1036.8877 113.0117)" class="st21 st22">Positioning</text>
-						<text transform="matrix(1.0397 0 0 1 588.9023 59.002)" class="st21 st22">Manometer Reading</text>
+						<text transform="matrix(1.0397 0 0 1 588.9023 59.002)" class="st21 st22">Manometer Reading (H)</text>
 						<text transform="matrix(1.0397 0 0 1 89.9434 197.7368)" class="st21 st22">Timer</text>
 						<text id="timer-sec" transform="matrix(0.945 0 0 1 111.4229 275.1348)" class="st18 st19">00</text>
 						<text id="timer-ms" transform="matrix(0.945 0 0 1 175.8916 275.9883)" class="st18 st19">00</text>
@@ -684,6 +684,29 @@
 		
 										</p>
 
+										<p style="text-align: center;  font-size:20px; font-weight: bolder; padding: 10px;">
+											<math style="font-weight: bold;" xmlns="http://www.w3.org/1998/Math/MathML">
+												<msub>
+													<mi>h</mi>
+												</msub>
+												<mo>=</mo>
+												<mfrac>
+												<mrow>
+													<msub>
+													<mi>H</mi>
+													</msub>
+													<msub>
+													<mi> x </mi>
+													</msub>
+													<msub>
+													<mi>12.6</mi>
+													</msub>
+												</mrow>
+												</mfrac>
+											</math>
+										</p>
+
+
 
 										<p style="text-align: center;  font-size:20px; font-weight: bolder; padding: 10px;">
 											<math style="font-weight: bold;" xmlns="http://www.w3.org/1998/Math/MathML">
@@ -788,14 +811,15 @@
 
 								</div>
 
-								<table id="tab1" border="1">
+								<table id="tab1" class="observationTable" border="1">
 									<tr>
-										<th colspan="7" style="font-size: 25px; font-weight: bolder; background-color: #634380;color: white;">Observation Table</th>
+										<th colspan="8" style="font-size: 25px; font-weight: bolder; background-color: #634380;color: white;">Observation Table</th>
 									</tr>
 									<tr>
 										<th>S.No:</th>
 										<th>Manometer reading <br> in mm of Hg <br>(H)</th>
 										<th>Time taken for collecting <br> 10 cm rise of  water<br>in collecting tank <br>(sec)</th>
+										<th>h<br>(m)</th>
 										<th>Q<sub>th</sub>  x 10<sup>-4</sup>
 			<br>
 											(m<sup>3</sup>/s)
@@ -813,6 +837,7 @@
 										<td>1.</td>
 										<td id="H1"><input type="text"></td>
 										<td id="T1"><input type="text"></td>
+										<td id="h1"><input type="number"></td>
 										<td id="Qt1"><input type="text"></td>
 										<td id="Qact1"><input type="text"></td>
 										<td id="Cd1"><input type="text" disabled="True"></td>
@@ -822,6 +847,7 @@
 										<td>2.</td>
 										<td id="H2"><input type="text"></td>
 										<td id="T2"><input type="text"></td>
+										<td id="h2"><input type="number"></td>
 										<td id="Qt2"><input type="text"></td>
 										<td id="Qact2"><input type="text"></td>
 										<td id="Cd2"><input type="text" disabled="True"></td>
@@ -830,6 +856,7 @@
 										<td>3.</td>
 										<td id="H3"><input type="text"></td>
 										<td id="T3"><input type="text"></td>
+										<td id="h3"><input type="number"></td>
 										<td id="Qt3"><input type="text"></td>
 										<td id="Qact3"><input type="text"></td>
 										<td id="Cd3"><input type="text" disabled="True"></td>
@@ -838,12 +865,13 @@
 
 								<table id="tab1" class="result-table" border="1" style="display: none;">
 									<tr>
-										<th colspan="7" style="font-size: 25px; font-weight: bolder; background-color: #634380;color: white;">Observation Table</th>
+										<th colspan="8" style="font-size: 25px; font-weight: bolder; background-color: #634380;color: white;">Observation Table</th>
 									</tr>
 									<tr>
 										<th>S.No:</th>
 										<th>Manometer reading <br> in mm of Hg <br>(H)</th>
 										<th>Time taken for collecting <br> 10 cm rise of  water<br>in collecting tank <br>(sec)</th>
+										<th>h<br>(m)</th>
 										<th>Q<sub>th</sub>  x 10<sup>-4</sup> 
 			<br>
 											(m<sup>3</sup>/s)
@@ -861,6 +889,7 @@
 										<td>1.</td>
 										<td id="H1"><input type="number" disabled="true" value="102"></td>
 										<td id="T1"><input type="number" disabled="true" value="28.91"></td>
+										<td id="h1"><input type="number" disabled="true" value="1285.2"></td>
 										<td id="Qt1"><input type="number" disabled="true" value="6.36"></td>
 										<td id="Qact1"><input type="number" disabled="true" value="4.15"></td>
 										<td id="Cd1"><input type="number" disabled="true" value="0.652"></td>
@@ -870,6 +899,7 @@
 										<td>2.</td>
 										<td id="H2"><input type="number" disabled="true" value="146"></td>
 										<td id="T2"><input type="number" disabled="true" value="23.89"></td>
+										<td id="h2"><input type="number" disabled="true" value="1839.6"></td>
 										<td id="Qt2"><input type="number" disabled="true" value="7.61"></td>
 										<td id="Qact2"><input type="number" disabled="true" value="5.02"></td>
 										<td id="Cd2"><input type="number" disabled="true" value="0.659"></td>
@@ -878,6 +908,7 @@
 										<td>3.</td>
 										<td id="H3"><input type="number" disabled="true" value="210"></td>
 										<td id="T3"><input type="number" disabled="true" value="20.72"></td>
+										<td id="h3"><input type="number" disabled="true" value="2646"></td>
 										<td id="Qt3"><input type="number" disabled="true" value="9.12"></td>
 										<td id="Qact3"><input type="number" disabled="true" value="5.79"></td>
 										<td id="Cd3"><input type="number" disabled="true" value="0.634"></td>
@@ -888,10 +919,11 @@
 
 								<button id="check-button" type="button" class="checkYourResult" style="border: solid black 3px; border-radius: 5px; padding: 5px;" disabled="true" onclick="checkYourResult()" >Check Your Result</button>
 
-								<!-- <div  style="margin:auto; display: flex; gap: 40px ;"> -->
+								<div  style="margin:auto; display: flex; gap: 40px ;">
+									<button style=" margin-bottom: 40px; border: solid black 3px; border-radius: 5px; padding: 5px; " onclick="exportToExcel()">Export to Excel</button>
 									<button style=" margin-bottom: 40px; border: solid black 3px; border-radius: 5px; padding: 5px; " onclick="window.print()">Print this page</button>
 									
-								<!-- </div> -->
+								</div>
 
 
 							</div>
@@ -902,6 +934,7 @@
 
 				<!-- Add JS at the bottom of HTML file -->
 				<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+				<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.4/xlsx.full.min.js"></script>
 				<script src="./js/calculation.js"></script>
 				<script src="./js/main.js"></script>
 			</body>
