@@ -10,10 +10,10 @@
         "d": "d = 0.1D"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is d = 0.25D. Typically, the diameter of the orifice is chosen to be a fraction of the pipe diameter, often around 0.25D, to ensure an appropriate pressure drop for accurate flow measurements without causing excessive energy loss.",
+        "b": "The correct answer is d = 0.25D. Typically, the diameter of the orifice is chosen to be a fraction of the pipe diameter, often around 0.25D, to ensure an appropriate pressure drop for accurate flow measurements without causing excessive energy loss.",
+        "c": "The correct answer is d = 0.25D. Typically, the diameter of the orifice is chosen to be a fraction of the pipe diameter, often around 0.25D, to ensure an appropriate pressure drop for accurate flow measurements without causing excessive energy loss.",
+        "d": "The correct answer is d = 0.25D. Typically, the diameter of the orifice is chosen to be a fraction of the pipe diameter, often around 0.25D, to ensure an appropriate pressure drop for accurate flow measurements without causing excessive energy loss."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "Turbulence"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is sudden obstruction. The abrupt change in the cross-sectional area in an orifice meter creates a sudden obstruction to the flow, leading to higher energy losses due to increased turbulence and a significant pressure drop compared to the smooth transition in a Venturi meter.",
+        "b": "The correct answer is sudden obstruction. The abrupt change in the cross-sectional area in an orifice meter creates a sudden obstruction to the flow, leading to higher energy losses due to increased turbulence and a significant pressure drop compared to the smooth transition in a Venturi meter.",
+        "c": "The correct answer is sudden obstruction. The abrupt change in the cross-sectional area in an orifice meter creates a sudden obstruction to the flow, leading to higher energy losses due to increased turbulence and a significant pressure drop compared to the smooth transition in a Venturi meter.",
+        "d": "The correct answer is sudden obstruction. The abrupt change in the cross-sectional area in an orifice meter creates a sudden obstruction to the flow, leading to higher energy losses due to increased turbulence and a significant pressure drop compared to the smooth transition in a Venturi meter."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -39,15 +39,13 @@
       "question": "3. Bernoulli equation is summation of pressure head, velocity head and datum head.",
       "answers": {
         "a": "True",
-        "b": "False",
-        "c": "answer3",
-        "d": "answer4"
+        "b": "False"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is true. The Bernoulli equation states that the sum of the pressure head, velocity head, and datum head (elevation head) is constant along a streamline in an incompressible, non-viscous fluid flow.",
+        "b": "The correct answer is true. The Bernoulli equation states that the sum of the pressure head, velocity head, and datum head (elevation head) is constant along a streamline in an incompressible, non-viscous fluid flow.",
+        "c": "The correct answer is true. The Bernoulli equation states that the sum of the pressure head, velocity head, and datum head (elevation head) is constant along a streamline in an incompressible, non-viscous fluid flow.",
+        "d": "The correct answer is true. The Bernoulli equation states that the sum of the pressure head, velocity head, and datum head (elevation head) is constant along a streamline in an incompressible, non-viscous fluid flow."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -61,10 +59,10 @@
         "d": "d. Maximum Velocity and maximum pressureanswer4"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is maximum velocity and minimum pressure. At the vena contracta, the fluid flow constricts to its smallest cross-sectional area, resulting in the highest velocity and the lowest pressure.",
+        "b": "The correct answer is maximum velocity and minimum pressure. At the vena contracta, the fluid flow constricts to its smallest cross-sectional area, resulting in the highest velocity and the lowest pressure.",
+        "c": "The correct answer is maximum velocity and minimum pressure. At the vena contracta, the fluid flow constricts to its smallest cross-sectional area, resulting in the highest velocity and the lowest pressure.",
+        "d": "The correct answer is maximum velocity and minimum pressure. At the vena contracta, the fluid flow constricts to its smallest cross-sectional area, resulting in the highest velocity and the lowest pressure."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -78,10 +76,10 @@
         "d": "Pressure increase"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is cavitation. If an orifice plate is not properly designed, it can cause a significant pressure drop, potentially lowering the pressure below the liquid’s vapor pressure, leading to cavitation",
+        "b": "The correct answer is cavitation. If an orifice plate is not properly designed, it can cause a significant pressure drop, potentially lowering the pressure below the liquid’s vapor pressure, leading to cavitation",
+        "c": "The correct answer is cavitation. If an orifice plate is not properly designed, it can cause a significant pressure drop, potentially lowering the pressure below the liquid’s vapor pressure, leading to cavitation",
+        "d": "The correct answer is cavitation. If an orifice plate is not properly designed, it can cause a significant pressure drop, potentially lowering the pressure below the liquid’s vapor pressure, leading to cavitation"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -95,10 +93,10 @@
         "d": "Turbulence"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is inertia of liquid. The inertia of the fluid causes it to continue converging after passing through the orifice, creating a narrow stream called the vena contracta.",
+        "b": "The correct answer is inertia of liquid. The inertia of the fluid causes it to continue converging after passing through the orifice, creating a narrow stream called the vena contracta.",
+        "c": "The correct answer is inertia of liquid. The inertia of the fluid causes it to continue converging after passing through the orifice, creating a narrow stream called the vena contracta.",
+        "d": "The correct answer is inertia of liquid. The inertia of the fluid causes it to continue converging after passing through the orifice, creating a narrow stream called the vena contracta."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -112,10 +110,10 @@
         "d": "outlet of pipe"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is vena contracta. The pressure is at its minimum at the vena contracta due to the maximum velocity at this point, according to Bernoulli’s principle.",
+        "b": "The correct answer is vena contracta. The pressure is at its minimum at the vena contracta due to the maximum velocity at this point, according to Bernoulli’s principle.",
+        "c": "The correct answer is vena contracta. The pressure is at its minimum at the vena contracta due to the maximum velocity at this point, according to Bernoulli’s principle.",
+        "d": "The correct answer is vena contracta. The pressure is at its minimum at the vena contracta due to the maximum velocity at this point, according to Bernoulli’s principle."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -129,10 +127,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is destruction of pipe. Cavitation can cause significant damage to the pipe and the orifice plate as the vapor bubbles collapse, leading to pitting and erosion of the material.",
+        "b": "The correct answer is destruction of pipe. Cavitation can cause significant damage to the pipe and the orifice plate as the vapor bubbles collapse, leading to pitting and erosion of the material.",
+        "c": "The correct answer is destruction of pipe. Cavitation can cause significant damage to the pipe and the orifice plate as the vapor bubbles collapse, leading to pitting and erosion of the material.",
+        "d": "The correct answer is destruction of pipe. Cavitation can cause significant damage to the pipe and the orifice plate as the vapor bubbles collapse, leading to pitting and erosion of the material."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -146,10 +144,10 @@
         "d": "Q<sub>act</sub>*Q<sub>theroitical</sub>"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is:-  Q<sub>act</sub>/Q<sub>theroitical</sub>. The discharge coefficient (Cd) is the ratio of the actual discharge (Q_act) to the theoretical discharge (Q_theoretical), accounting for the various losses in the system.",
+        "b": "The correct answer is:-  Q<sub>act</sub>/Q<sub>theroitical</sub>. The discharge coefficient (Cd) is the ratio of the actual discharge (Q_act) to the theoretical discharge (Q_theoretical), accounting for the various losses in the system.",
+        "c": "The correct answer is:-  Q<sub>act</sub>/Q<sub>theroitical</sub>. The discharge coefficient (Cd) is the ratio of the actual discharge (Q_act) to the theoretical discharge (Q_theoretical), accounting for the various losses in the system.",
+        "d": "The correct answer is:-  Q<sub>act</sub>/Q<sub>theroitical</sub>. The discharge coefficient (Cd) is the ratio of the actual discharge (Q_act) to the theoretical discharge (Q_theoretical), accounting for the various losses in the system."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -163,10 +161,10 @@
         "d": "(0.5gh)<sup>-0.5</sup>"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is:-  (2gh)<sup>-0.5</sup>. The theoretical velocity of the liquid flowing through an orifice can be derived from Torricelli's theorem, which states that the velocity (V) is equal to the square root of twice the product of the acceleration due to gravity (g) and the head (h).",
+        "b": "The correct answer is:-  (2gh)<sup>-0.5</sup>. The theoretical velocity of the liquid flowing through an orifice can be derived from Torricelli's theorem, which states that the velocity (V) is equal to the square root of twice the product of the acceleration due to gravity (g) and the head (h)",
+        "c": "The correct answer is:-  (2gh)<sup>-0.5</sup>. The theoretical velocity of the liquid flowing through an orifice can be derived from Torricelli's theorem, which states that the velocity (V) is equal to the square root of twice the product of the acceleration due to gravity (g) and the head (h)",
+        "d": "The correct answer is:-  (2gh)<sup>-0.5</sup>. The theoretical velocity of the liquid flowing through an orifice can be derived from Torricelli's theorem, which states that the velocity (V) is equal to the square root of twice the product of the acceleration due to gravity (g) and the head (h)"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
