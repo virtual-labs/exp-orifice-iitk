@@ -8,8 +8,8 @@ The following steps are to be followed to calculate the discharge coefficient of
 6. By regulating the valve control the flow rate and select the corresponding pressure tapings (i.e. of Orifice meter). Make sure while taking readings, that the manometer is properly primed. Priming is the operation of filling the manometers upper part and the connecting pipes with water by venting the air from the pipes.<br>
 7. Note down the difference of head “h” from the manometer scale, and time required for the rise of 10 cm (i.e. 0.01m) water in the collecting tank by using stop watch.<br><br>
 
-<b><U>Formulae – </U></b><br>
-1. Calculate Actual Discharge (Q<sub>act</sub>)
+<b>Formulae – </b><br>
+1. Calculate Actual Discharge (Q<sub>act</sub>)<br>
 Note down the time required for the rice of 10 cm (i.e 0.1 m) water in the collecting tank by using stop watch. Calculate discharge using below formulae:
 Discharge: The time taken collect some ‘R’ cm of water in the collecting tank<br>
 Q<sub>act</sub>=((A×R)/t)  
@@ -22,4 +22,4 @@ Where,<br>
 3. Calculate the coefficient of discharge of orifice meter:<br>
 <image src="images/P3.PNG"><br>
 <b>	<U>Observations – </U></b><br>
-<image src="images/O1.PNG"><br>
+<image src="images/image6.png"><br>
