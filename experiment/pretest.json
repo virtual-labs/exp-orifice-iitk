@@ -24,7 +24,7 @@
         "a": "Less",
         "b": "Greater",
         "c": "Equal",
-        "d": "None of these"
+        "d": "Less or equal"
       },
       "explanations": {
         "a": "The correct answer is greater. An orifice meter causes a greater energy loss compared to a Venturi meter because it induces more turbulence and a larger pressure drop due to the abrupt change in cross-sectional area.",
@@ -75,7 +75,7 @@
         "a": "Below liquid vapor pressure",
         "b": "Above liquid vapor pressureanswer2",
         "c": "Equal to liquid vapor pressure",
-        "d": "None of these"
+        "d": "Either above and below "
       },
       "explanations": {
         "a": "The correct answer is below liquid vapor pressure. Cavitation occurs when the pressure of the liquid drops below its vapor pressure, causing the formation of vapor bubbles that can collapse and cause damage to the orifice and surrounding piping.",
@@ -122,7 +122,7 @@
         "a": "Conservation of energy",
         "b": "Conservation of mass",
         "c": "Both (a) and (b)",
-        "d": "None of these"
+        "d": "Conservation of momentum"
       },
       "explanations": {
         "a": "The correct answer is conservation of energy. The Bernoulli equation expresses the principle of conservation of mechanical energy for a flowing fluid, stating that the total energy (sum of pressure energy, kinetic energy, and potential energy) remains constant along a streamline.",

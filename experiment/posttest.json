@@ -98,7 +98,7 @@
         "c": "The correct answer is inertia of liquid. The inertia of the fluid causes it to continue converging after passing through the orifice, creating a narrow stream called the vena contracta.",
         "d": "The correct answer is inertia of liquid. The inertia of the fluid causes it to continue converging after passing through the orifice, creating a narrow stream called the vena contracta."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
@@ -124,7 +124,7 @@
         "a": "Destruction of pipe",
         "b": "Smoothing of pipe",
         "c": "No effect on pipe",
-        "d": "None of these"
+        "d": "useful to long life of pipe"
       },
       "explanations": {
         "a": "The correct answer is destruction of pipe. Cavitation can cause significant damage to the pipe and the orifice plate as the vapor bubbles collapse, leading to pitting and erosion of the material.",
