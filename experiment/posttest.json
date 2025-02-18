@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. Relationship between Orifice diameter and pipe diameter is:<br>(where D is diameter of pipe and d is diameter of Orifice)",
+      "question": "1. The relationship between Orifice diameter and pipe diameter is: (where D is the diameter of the pipe and d is the diameter of the Orifice)",
       "answers": {
         "a": "d = D",
         "b": "d = 0.5D",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "2. Headloss in an Orifice is more than that of Venturi because of:",
+      "question": "2. Head loss in an Orifice is more than that of Venturi because of:",
       "answers": {
         "a": "Sudden Obstruction",
         "b": "Shear Stresses",
@@ -81,7 +81,7 @@
         "c": "The correct answer is cavitation. If an orifice plate is not properly designed, it can cause a significant pressure drop, potentially lowering the pressure below the liquid’s vapor pressure, leading to cavitation",
         "d": "The correct answer is cavitation. If an orifice plate is not properly designed, it can cause a significant pressure drop, potentially lowering the pressure below the liquid’s vapor pressure, leading to cavitation"
       },
-      "correctAnswer": "b",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {

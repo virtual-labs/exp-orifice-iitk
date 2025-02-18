@@ -10,12 +10,12 @@ The following steps are to be followed to calculate the discharge coefficient of
 
 <b>Formulae – </b><br>
 1. Calculate Actual Discharge (Q<sub>act</sub>)<br>
-Note down the time required for the rice of 10 cm (i.e 0.1 m) water in the collecting tank by using stop watch. Calculate discharge using below formulae:
-Discharge: The time taken collect some ‘R’ cm of water in the collecting tank<br>
-Q<sub>act</sub>=((A×R)/t)  
-A = area of the collecting tank in m<sup>² </sup><br>
-R = rise of water level taken in meters (say 0.1 m or 10 cm) <br>
-t = time taken for rise of water level to height ‘R’ in seconds<br>
+Note down the time required for the rise of 10 cm (i.e 0.1 m) water in the collecting tank by using stop watch. Calculate discharge using below formulae:
+Discharge: The time taken collect some ‘R’ cm of water in the collecting tank<br><br>
+Q<sub>act</sub>=((A×R)/t)  <br><br>
+A = Area of the collecting tank in m<sup>²</sup><br>
+R = Rise of water level taken in meters (say 0.1 m or 10 cm) <br>
+t = Time taken for rise of water level to height ‘R’ in seconds<br><br>
 2. Using difference in mercury level “h” calculate the theoretical discharge of Orifice meter by using following expression: <br>
 Where,<br> 
 <image src="images/imagef1.png"><br>
