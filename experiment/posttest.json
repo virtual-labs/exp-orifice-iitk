@@ -53,10 +53,10 @@
     {
       "question": "4. Vena contracta is the point where",
       "answers": {
-        "a": "a. Minimum Velocity and minimum pressure",
-        "b": "b. Maximum Velocity and minimum pressure",
-        "c": "c. Minimum Velocity and maximum pressure",
-        "d": "d. Maximum Velocity and maximum pressureanswer4"
+        "a": "Minimum Velocity and minimum pressure",
+        "b": "Maximum Velocity and minimum pressure",
+        "c": "Minimum Velocity and maximum pressure",
+        "d": "Maximum Velocity and maximum pressureanswer4"
       },
       "explanations": {
         "a": "The correct answer is maximum velocity and minimum pressure. At the vena contracta, the fluid flow constricts to its smallest cross-sectional area, resulting in the highest velocity and the lowest pressure.",
