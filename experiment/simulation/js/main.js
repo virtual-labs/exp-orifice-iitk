@@ -1,6 +1,8 @@
 var enableButton=document.getElementById("enable");
+var highlightArrow = document.getElementById("highlight-arrow");
 var purzeButton=document.getElementById("purze")
 var valvePositioning = document.querySelector("#flow-rate-slider")
+var valvePositioningContainer = document.getElementById("valve-positioning-container")
 var svg=document.getElementById("Layer_1");
 var valvePositioningText = document.getElementById("valve-positioning-text");
 var manometerText = document.getElementById("manometer-text")
@@ -38,6 +40,8 @@ var svgContainer1 = document.getElementById("svg-container-1");
 var svgElements1 = document.querySelectorAll(".arrow-1");
 
 var animationTimeouts = [];
+var currentHighlightedElement = enableButton;
+
 function displayArrows() {
     svgElements1.forEach(function (element) {
         element.style.animation = "arrowAnimation 1s infinite";       
@@ -58,6 +62,7 @@ function power(){
         enableButton.textContent = "POWER OFF"
         count=1
         waterFlow3()
+        highlightArrow.style.display = "none"
     }else{
         if(!window.appData.powerFlag){
             alert("Please complete the experiment to turn power off!");
@@ -140,6 +145,7 @@ function waterFlow4(){
 
     setTimeout(function() {
         document.getElementById("steps").innerHTML = "Choose a value on the valve positioning slider to regulate the water flow."
+        highlightArrowFn(valvePositioningContainer)
         valvePositioning.disabled = false
       }, 1500);
     
@@ -342,6 +348,7 @@ function waterFlow14(){
             }
 
             document.getElementById("steps").innerHTML = "Take note of the manometer reading, and then close the gate valve using the close gate valve button."
+            highlightArrowFn(purzeButton)
             purzeButton.disabled = false;
         }, 1000);
     // }
@@ -374,9 +381,11 @@ function fillTankFront(){
 
     setTimeout(function() {
         document.getElementById("steps").innerHTML = "Take note of the current time on the timer, and then readjust the gate valve value using the slider for additional readings. Finally, use the provided data to calculate Qact and Qth."
+        highlightArrowFn(valvePositioningContainer)
         purzeButton.disabled = false;
         if(valvePositioning.value == 3){
             document.getElementById("steps").innerHTML = "Take note of the current time on the timer and use the provided data to calculate Qact and Qth."
+            highlightArrow.style.display = "none"
         }valvePositioning.disabled=false
       }, 3500);
 
@@ -498,6 +507,7 @@ function resetTimer() {
 function purzeAction(){
 
     shouldStop=true
+    highlightArrow.style.display = "none"
     
     w10.setAttribute("width","0")
     w11.setAttribute("height","0")
@@ -519,7 +529,6 @@ function purzeAction(){
     waterTankSideFlow(577.5,506.9)
     arrowMovement()
     arrowMovement2(573.3,579.3,585.3 )
-
     purzeButton.disabled= true
 }
 
@@ -538,6 +547,7 @@ function updateValvePositioning()  {
     }else{
         waterFlow5() 
         valvePositioning.disabled = true;
+        highlightArrow.style.display = "none"
     }
     
     valvePositioningText.textContent = selectedValue;
@@ -581,3 +591,23 @@ function arrowMovement2(y1,y2,y3){
     }
 
 }
+
+function highlightArrowFn(element) {
+    if (element) {
+      let rect = element.getBoundingClientRect();
+      highlightArrow.style.left = `${
+        rect.left + window.scrollX + rect.width / 2 - 25
+      }px`;
+      highlightArrow.style.top = `${rect.top + window.scrollY - 50}px`;
+      highlightArrow.style.display = "block";
+      currentHighlightedElement = element;
+    }
+}
+  
+document.addEventListener("DOMContentLoaded", () =>
+  highlightArrowFn(enableButton)
+);
+
+window.addEventListener('resize', function() {
+    highlightArrowFn(currentHighlightedElement); // Recalculate position of the arrow when the window resizes
+  });
