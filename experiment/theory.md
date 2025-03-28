@@ -17,7 +17,7 @@ Piping in the test bench consist of G.I. pipes of size 25 mm with sufficient len
 4. <b>Centrifugal pump</b>
 A mono block centrifugal pump is provided with the test bench which delivers the water through the test bench pipeline fittings and Orifice meter. The pump is rigidly fixed onto sump tank. <br><br>
 5. <b>Measuring Tank</b><br>
-Measuring tank with gauge glass and scale arrangement for quick and easy measurement to determine height of water filed in the tank<br><br>
+Measuring tank with gauge glass and scale arrangement for quick and easy measurement to determine height of water filled in the tank<br><br>
 6. <b>Differential Manometer</b>
 A Differential manometer with 1 mm scale grading is provided to measure the differential pressure head produced by the Orifice meter.<br><br>
 7. <b>Sump</b><br>
