@@ -55,9 +55,9 @@
     {
       "question": "4. Discharge Co-efficient (Cd) for an Orifice ranges from:",
       "answers": {
-        "a": "0.5 < Cd < 0.6answer1",
+        "a": "0.5 < Cd < 0.6",
         "b": "0.6 < Cd < 0.65",
-        "c": "0.65 < Cd < 0.8answer3",
+        "c": "0.65 < Cd < 0.8",
         "d": "Cd > 0.8"
       },
       "explanations": {
@@ -73,7 +73,7 @@
       "question": "5. Cavitation occurs in an orifice if pressure goes ____________________:",
       "answers": {
         "a": "Below liquid vapor pressure",
-        "b": "Above liquid vapor pressureanswer2",
+        "b": "Above liquid vapor pressure",
         "c": "Equal to liquid vapor pressure",
         "d": "Either above and below "
       },
