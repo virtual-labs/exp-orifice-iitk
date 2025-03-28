@@ -56,7 +56,7 @@
         "a": "Minimum Velocity and minimum pressure",
         "b": "Maximum Velocity and minimum pressure",
         "c": "Minimum Velocity and maximum pressure",
-        "d": "Maximum Velocity and maximum pressureanswer4"
+        "d": "Maximum Velocity and maximum pressure"
       },
       "explanations": {
         "a": "The correct answer is maximum velocity and minimum pressure. At the vena contracta, the fluid flow constricts to its smallest cross-sectional area, resulting in the highest velocity and the lowest pressure.",
@@ -138,16 +138,16 @@
     {
       "question": "9. Discharge co-efficient (C_d) of an Orifice is defined as:",
       "answers": {
-        "a": "Q<sub>act</sub>- Q<sub>theroitical</sub>",
-        "b": "Q<sub>act</sub>+Q<sub>theroitical</sub>",
-        "c": "Q<sub>act</sub>/Q<sub>theroitical</sub>",
-        "d": "Q<sub>act</sub>*Q<sub>theroitical</sub>"
+        "a": "Q<sub>act</sub>- Q<sub>theoretical</sub>",
+        "b": "Q<sub>act</sub>+Q<sub>theoretical</sub>",
+        "c": "Q<sub>act</sub>/Q<sub>theoretical</sub>",
+        "d": "Q<sub>act</sub>*Q<sub>theoretical</sub>"
       },
       "explanations": {
-        "a": "The correct answer is:-  Q<sub>act</sub>/Q<sub>theroitical</sub>. The discharge coefficient (Cd) is the ratio of the actual discharge (Q_act) to the theoretical discharge (Q_theoretical), accounting for the various losses in the system.",
-        "b": "The correct answer is:-  Q<sub>act</sub>/Q<sub>theroitical</sub>. The discharge coefficient (Cd) is the ratio of the actual discharge (Q_act) to the theoretical discharge (Q_theoretical), accounting for the various losses in the system.",
-        "c": "The correct answer is:-  Q<sub>act</sub>/Q<sub>theroitical</sub>. The discharge coefficient (Cd) is the ratio of the actual discharge (Q_act) to the theoretical discharge (Q_theoretical), accounting for the various losses in the system.",
-        "d": "The correct answer is:-  Q<sub>act</sub>/Q<sub>theroitical</sub>. The discharge coefficient (Cd) is the ratio of the actual discharge (Q_act) to the theoretical discharge (Q_theoretical), accounting for the various losses in the system."
+        "a": "The correct answer is:-  Q<sub>act</sub>/Q<sub>theoretical</sub>. The discharge coefficient (Cd) is the ratio of the actual discharge (Q_act) to the theoretical discharge (Q_theoretical), accounting for the various losses in the system.",
+        "b": "The correct answer is:-  Q<sub>act</sub>/Q<sub>theoretical</sub>. The discharge coefficient (Cd) is the ratio of the actual discharge (Q_act) to the theoretical discharge (Q_theoretical), accounting for the various losses in the system.",
+        "c": "The correct answer is:-  Q<sub>act</sub>/Q<sub>theoretical</sub>. The discharge coefficient (Cd) is the ratio of the actual discharge (Q_act) to the theoretical discharge (Q_theoretical), accounting for the various losses in the system.",
+        "d": "The correct answer is:-  Q<sub>act</sub>/Q<sub>theoretical</sub>. The discharge coefficient (Cd) is the ratio of the actual discharge (Q_act) to the theoretical discharge (Q_theoretical), accounting for the various losses in the system."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
