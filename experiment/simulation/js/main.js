@@ -38,6 +38,7 @@ let shouldStop=false;
 
 var svgContainer1 = document.getElementById("svg-container-1");
 var svgElements1 = document.querySelectorAll(".arrow-1");
+var hValue = document.getElementById('h-value');
 
 var animationTimeouts = [];
 var currentHighlightedElement = enableButton;
@@ -530,6 +531,7 @@ function purzeAction(){
     arrowMovement()
     arrowMovement2(573.3,579.3,585.3 )
     purzeButton.disabled= true
+    setTimeout(() => hValue.innerText = '10', 2000)
 }
 
 
@@ -551,6 +553,7 @@ function updateValvePositioning()  {
     }
     
     valvePositioningText.textContent = selectedValue;
+    hValue.innerText = '0';
 }
 
 function reset(){
