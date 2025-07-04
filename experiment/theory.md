@@ -9,7 +9,7 @@ Fig. 2, shows a test rig or bench for Orifice meter whose each part is explained
   
 1. <b>Flow Meter</b><br>
 
-The test bench consists of flow meter with of size 25 mm for the experiments. The meter has the adequate cocks also with them.<br><br>
+The test bench consists of flow meter with of size 25 mm for the experiments. The meter is equipped with adequate control cocks.<br><br>
 2. <b>Strainer</b>
 A strainer acts like a filter which stops the solid particles entering the impeller through suction pipe. Strainer is attached at that end of the suction pipe which is dipped into the sump.<br><br>
 3. <b>Piping</b>
