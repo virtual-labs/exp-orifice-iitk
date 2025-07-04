@@ -1,0 +1,21 @@
+
+/home/runner/work/exp-orifice-iitk/exp-orifice-iitk/experiment/simulation/js/calculation.js
+   26:10  warning  'calculate' is defined but never used        no-unused-vars
+   46:10  warning  'checkYourResult' is defined but never used  no-unused-vars
+  197:13  warning  'confetti' is not defined                    no-undef
+  207:10  warning  'exportToExcel' is defined but never used    no-unused-vars
+  208:14  warning  'XLSX' is not defined                        no-undef
+  225:28  warning  'XLSX' is not defined                        no-undef
+  226:5   warning  'XLSX' is not defined                        no-undef
+  231:5   warning  'XLSX' is not defined                        no-undef
+
+/home/runner/work/exp-orifice-iitk/exp-orifice-iitk/experiment/simulation/js/main.js
+    6:5   warning  'svg' is assigned a value but never used                no-unused-vars
+   39:5   warning  'svgContainer1' is assigned a value but never used      no-unused-vars
+   43:5   warning  'animationTimeouts' is assigned a value but never used  no-unused-vars
+   51:10  warning  'stopAnimation' is defined but never used               no-unused-vars
+   59:10  warning  'power' is defined but never used                       no-unused-vars
+  508:10  warning  'purzeAction' is defined but never used                 no-unused-vars
+
+✖ 14 problems (0 errors, 14 warnings)
+
