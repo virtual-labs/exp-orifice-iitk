@@ -5,7 +5,7 @@ The following steps are to be followed to calculate the discharge coefficient of
 3. Check proper electrical connections to the switch, which is internally connected to the motor. First open the inlet gate valve of the apparatus. Adjust the control valve kept at the exit end of the apparatus to a desired flow rate and maintain the flow steadily.<br> 
 4. The actual discharge is measured with the help of the measuring tank. The differential head produced by the flow meter can be found from the manometer for any flowrate.<br>
 5. Start the motor keeping the delivery valve close. The water is allowed to flow through the selected pipe by selecting the appropriate ball valve.<br>
-6. By regulating the valve control the flow rate and select the corresponding pressure tapings (i.e. of Orifice meter). Make sure while taking readings, that the manometer is properly primed. Priming is the operation of filling the manometers upper part and the connecting pipes with water by venting the air from the pipes.<br>
+6. By regulating the valve control the flow rate and select the corresponding pressure tappings (i.e. of Orifice meter). Make sure while taking readings, that the manometer is properly primed. Priming is the operation of filling the manometers upper part and the connecting pipes with water by venting the air from the pipes.<br>
 7. Note down the difference of head “h” from the manometer scale, and time required for the rise of 10 cm (i.e. 0.01m) water in the collecting tank by using stop watch.<br><br>
 
 <b>Formulae – </b><br>
