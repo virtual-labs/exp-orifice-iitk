@@ -2,41 +2,41 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. An Orifice meter is used to measure: ",
+      "question": "“1.” An Orifice meter is used to measure: ",
       "answers": {
         "a": "Pressure difference of liquid flowing between two locations in a pipe line",
         "b": "Discharge of liquid flowing in a pipe",
-        "c": "Measure the velocity of a flowing liquid",
-        "d": "Measure the pressure of a flowing liquid"
+        "c": "Velocity of a flowing liquid",
+        "d": "Pressure of a flowing liquid"
       },
       "explanations": {
-        "a": "The correct answer is discharge of liquid flowing in a pipe. An orifice meter measures the flow rate or discharge of a liquid passing through a pipe by inducing a pressure drop across an orifice plate, which correlates with the flow rate.",
-        "b": "The correct answer is discharge of liquid flowing in a pipe. An orifice meter measures the flow rate or discharge of a liquid passing through a pipe by inducing a pressure drop across an orifice plate, which correlates with the flow rate.",
-        "c": "The correct answer is discharge of liquid flowing in a pipe. An orifice meter measures the flow rate or discharge of a liquid passing through a pipe by inducing a pressure drop across an orifice plate, which correlates with the flow rate.",
-        "d": "The correct answer is discharge of liquid flowing in a pipe. An orifice meter measures the flow rate or discharge of a liquid passing through a pipe by inducing a pressure drop across an orifice plate, which correlates with the flow rate."
+        "a": "The correct answer is “Discharge of liquid flowing in a pipe”. An orifice meter measures the flow rate or discharge of a liquid passing through a pipe by inducing a pressure drop across an orifice plate, which correlates with the flow rate.",
+        "b": "The correct answer is “Discharge of liquid flowing in a pipe”. An orifice meter measures the flow rate or discharge of a liquid passing through a pipe by inducing a pressure drop across an orifice plate, which correlates with the flow rate.",
+        "c": "The correct answer is “Discharge of liquid flowing in a pipe”. An orifice meter measures the flow rate or discharge of a liquid passing through a pipe by inducing a pressure drop across an orifice plate, which correlates with the flow rate.",
+        "d": "The correct answer is “Discharge of liquid flowing in a pipe”. An orifice meter measures the flow rate or discharge of a liquid passing through a pipe by inducing a pressure drop across an orifice plate, which correlates with the flow rate."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "2. An Orifice meter has _____________ energy loss compared to Venturi:",
+      "question": "“2.” An Orifice meter has <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> energy loss compared to Venturi.",
       "answers": {
-        "a": "Less",
-        "b": "Greater",
-        "c": "Equal",
-        "d": "Less or equal"
+        "a": "less",
+        "b": "greater",
+        "c": "equal",
+        "d": "less or equal"
       },
       "explanations": {
-        "a": "The correct answer is greater. An orifice meter causes a greater energy loss compared to a Venturi meter because it induces more turbulence and a larger pressure drop due to the abrupt change in cross-sectional area.",
-        "b": "The correct answer is greater. An orifice meter causes a greater energy loss compared to a Venturi meter because it induces more turbulence and a larger pressure drop due to the abrupt change in cross-sectional area.",
-        "c": "The correct answer is greater. An orifice meter causes a greater energy loss compared to a Venturi meter because it induces more turbulence and a larger pressure drop due to the abrupt change in cross-sectional area.",
-        "d": "The correct answer is greater. An orifice meter causes a greater energy loss compared to a Venturi meter because it induces more turbulence and a larger pressure drop due to the abrupt change in cross-sectional area."
+        "a": "The correct answer is “greater”. An orifice meter causes a greater energy loss compared to a Venturi meter because it induces more turbulence and a larger pressure drop due to the abrupt change in cross-sectional area.",
+        "b": "The correct answer is “greater”. An orifice meter causes a greater energy loss compared to a Venturi meter because it induces more turbulence and a larger pressure drop due to the abrupt change in cross-sectional area.",
+        "c": "The correct answer is “greater”. An orifice meter causes a greater energy loss compared to a Venturi meter because it induces more turbulence and a larger pressure drop due to the abrupt change in cross-sectional area.",
+        "d": "The correct answer is “greater”. An orifice meter causes a greater energy loss compared to a Venturi meter because it induces more turbulence and a larger pressure drop due to the abrupt change in cross-sectional area."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "3. In the case of flow-through orifices, the coefficient of velocity at vena contracta is:",
+      "question": "“3.” In the case of flow-through orifices, the coefficient of velocity at vena contracta is:",
       "answers": {
         "a": "Equal to zero",
         "b": "More than one",
@@ -44,16 +44,16 @@
         "d": "Equal to one"
       },
       "explanations": {
-        "a": "The correct answer is less than one. The coefficient of velocity (Cv) at the vena-contracta (the narrowest point of the flow stream) is always less than one due to energy losses from friction and turbulence.",
-        "b": "The correct answer is less than one. The coefficient of velocity (Cv) at the vena-contracta (the narrowest point of the flow stream) is always less than one due to energy losses from friction and turbulence.",
-        "c": "The correct answer is less than one. The coefficient of velocity (Cv) at the vena-contracta (the narrowest point of the flow stream) is always less than one due to energy losses from friction and turbulence.",
-        "d": "The correct answer is less than one. The coefficient of velocity (Cv) at the vena-contracta (the narrowest point of the flow stream) is always less than one due to energy losses from friction and turbulence."
+        "a": "The correct answer is “Less than one”. The coefficient of velocity (C<sub>v</sub>) at the vena-contracta (the narrowest point of the flow stream) is always less than one due to energy losses from friction and turbulence.",
+        "b": "The correct answer is “Less than one”. The coefficient of velocity (C<sub>v</sub>) at the vena-contracta (the narrowest point of the flow stream) is always less than one due to energy losses from friction and turbulence.",
+        "c": "The correct answer is “Less than one”. The coefficient of velocity (C<sub>v</sub>) at the vena-contracta (the narrowest point of the flow stream) is always less than one due to energy losses from friction and turbulence.",
+        "d": "The correct answer is “Less than one”. The coefficient of velocity (C<sub>v</sub>) at the vena-contracta (the narrowest point of the flow stream) is always less than one due to energy losses from friction and turbulence."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "4. Discharge Co-efficient (Cd) for an Orifice ranges from:",
+      "question": "“4.” Discharge Co-efficient (Cd) for an Orifice ranges from:",
       "answers": {
         "a": "0.5 < Cd < 0.6",
         "b": "0.6 < Cd < 0.65",
@@ -61,16 +61,16 @@
         "d": "Cd > 0.8"
       },
       "explanations": {
-        "a": "The correct answer is 0.6 < Cd < 0.65. The discharge coefficient (Cd) for an orifice typically falls within this range, accounting for the various losses that occur as the fluid passes through the orifice.",
-        "b": "The correct answer is 0.6 < Cd < 0.65. The discharge coefficient (Cd) for an orifice typically falls within this range, accounting for the various losses that occur as the fluid passes through the orifice.",
-        "c": "The correct answer is 0.6 < Cd < 0.65. The discharge coefficient (Cd) for an orifice typically falls within this range, accounting for the various losses that occur as the fluid passes through the orifice.",
-        "d": "The correct answer is 0.6 < Cd < 0.65. The discharge coefficient (Cd) for an orifice typically falls within this range, accounting for the various losses that occur as the fluid passes through the orifice."
+        "a": "The correct answer is “0.6 < C<sub>d</sub> < 0.65”. The discharge coefficient (C<sub>d</sub>) for an orifice typically falls within this range, accounting for the various losses that occur as the fluid passes through the orifice.",
+        "b": "The correct answer is “0.6 < C<sub>d</sub> < 0.65”. The discharge coefficient (C<sub>d</sub>) for an orifice typically falls within this range, accounting for the various losses that occur as the fluid passes through the orifice.",
+        "c": "The correct answer is “0.6 < C<sub>d</sub> < 0.65”. The discharge coefficient (C<sub>d</sub>) for an orifice typically falls within this range, accounting for the various losses that occur as the fluid passes through the orifice.",
+        "d": "The correct answer is “0.6 < C<sub>d</sub> < 0.65”. The discharge coefficient (C<sub>d</sub>) for an orifice typically falls within this range, accounting for the various losses that occur as the fluid passes through the orifice."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "5. Cavitation occurs in an orifice if pressure goes ____________________:",
+      "question": "“5.” Cavitation occurs in an orifice if pressure goes:",
       "answers": {
         "a": "Below liquid vapor pressure",
         "b": "Above liquid vapor pressure",
@@ -78,16 +78,16 @@
         "d": "Either above and below "
       },
       "explanations": {
-        "a": "The correct answer is below liquid vapor pressure. Cavitation occurs when the pressure of the liquid drops below its vapor pressure, causing the formation of vapor bubbles that can collapse and cause damage to the orifice and surrounding piping.",
-        "b": "The correct answer is below liquid vapor pressure. Cavitation occurs when the pressure of the liquid drops below its vapor pressure, causing the formation of vapor bubbles that can collapse and cause damage to the orifice and surrounding piping.",
-        "c": "The correct answer is below liquid vapor pressure. Cavitation occurs when the pressure of the liquid drops below its vapor pressure, causing the formation of vapor bubbles that can collapse and cause damage to the orifice and surrounding piping.",
-        "d": "The correct answer is below liquid vapor pressure. Cavitation occurs when the pressure of the liquid drops below its vapor pressure, causing the formation of vapor bubbles that can collapse and cause damage to the orifice and surrounding piping."
+        "a": "The correct answer is “Below liquid vapor pressure”. Cavitation occurs when the pressure of the liquid drops below its vapor pressure, causing the formation of vapor bubbles that can collapse and cause damage to the orifice and surrounding piping.",
+        "b": "The correct answer is “Below liquid vapor pressure”. Cavitation occurs when the pressure of the liquid drops below its vapor pressure, causing the formation of vapor bubbles that can collapse and cause damage to the orifice and surrounding piping.",
+        "c": "The correct answer is “Below liquid vapor pressure”. Cavitation occurs when the pressure of the liquid drops below its vapor pressure, causing the formation of vapor bubbles that can collapse and cause damage to the orifice and surrounding piping.",
+        "d": "The correct answer is “Below liquid vapor pressure”. Cavitation occurs when the pressure of the liquid drops below its vapor pressure, causing the formation of vapor bubbles that can collapse and cause damage to the orifice and surrounding piping."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "6. Advantage of an Orifice meter over a Venturi meter is:",
+      "question": "“6.” Major advantage of an Orifice meter over a Venturi meter is:",
       "answers": {
         "a": "Cost effective",
         "b": "Easy installation",
@@ -95,29 +95,29 @@
         "d": "Less energy losses"
       },
       "explanations": {
-        "a": "The correct answer is cost effective. Orifice meters are generally less expensive to produce and install compared to Venturi meters, making them a cost-effective option for flow measurement.",
-        "b": "The correct answer is cost effective. Orifice meters are generally less expensive to produce and install compared to Venturi meters, making them a cost-effective option for flow measurement.",
-        "c": "The correct answer is cost effective. Orifice meters are generally less expensive to produce and install compared to Venturi meters, making them a cost-effective option for flow measurement.",
-        "d": "The correct answer is cost effective. Orifice meters are generally less expensive to produce and install compared to Venturi meters, making them a cost-effective option for flow measurement."
+        "a": "The correct answer is “Cost effective”. Orifice meters are generally less expensive to produce and install compared to Venturi meters, making them a cost-effective option for flow measurement.",
+        "b": "The correct answer is “Cost effective”. Orifice meters are generally less expensive to produce and install compared to Venturi meters, making them a cost-effective option for flow measurement.",
+        "c": "The correct answer is “Cost effective”. Orifice meters are generally less expensive to produce and install compared to Venturi meters, making them a cost-effective option for flow measurement.",
+        "d": "The correct answer is “Cost effective”. Orifice meters are generally less expensive to produce and install compared to Venturi meters, making them a cost-effective option for flow measurement."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "7. An Orifice meter reading are more accurate than that of Venturi meter",
+      "question": "“7.” An Orifice meter readings are more accurate than that of Venturi meter.",
       "answers": {
         "a": "True",
         "b": "False"
       },
       "explanations": {
-        "a": "The correct answer is false. Venturi meters are typically more accurate than orifice meters because they induce less turbulence and have lower energy losses, leading to more stable and precise measurements.",
-        "b": "The correct answer is false. Venturi meters are typically more accurate than orifice meters because they induce less turbulence and have lower energy losses, leading to more stable and precise measurements."
+        "a": "The correct answer is “False”. Venturi meters are typically more accurate than orifice meters because they induce less turbulence and have lower energy losses, leading to more stable and precise measurements.",
+        "b": "The correct answer is “False”. Venturi meters are typically more accurate than orifice meters because they induce less turbulence and have lower energy losses, leading to more stable and precise measurements."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "8. Bernoulli equation is based on:",
+      "question": "“8.” Bernoulli’s equation is based on:",
       "answers": {
         "a": "Conservation of energy",
         "b": "Conservation of mass",
@@ -125,16 +125,16 @@
         "d": "Conservation of momentum"
       },
       "explanations": {
-        "a": "The correct answer is conservation of energy. The Bernoulli equation expresses the principle of conservation of mechanical energy for a flowing fluid, stating that the total energy (sum of pressure energy, kinetic energy, and potential energy) remains constant along a streamline.",
-        "b": "The correct answer is conservation of energy. The Bernoulli equation expresses the principle of conservation of mechanical energy for a flowing fluid, stating that the total energy (sum of pressure energy, kinetic energy, and potential energy) remains constant along a streamline.",
-        "c": "The correct answer is conservation of energy. The Bernoulli equation expresses the principle of conservation of mechanical energy for a flowing fluid, stating that the total energy (sum of pressure energy, kinetic energy, and potential energy) remains constant along a streamline.",
-        "d": "The correct answer is conservation of energy. The Bernoulli equation expresses the principle of conservation of mechanical energy for a flowing fluid, stating that the total energy (sum of pressure energy, kinetic energy, and potential energy) remains constant along a streamline."
+        "a": "The correct answer is “Conservation of energy”. The Bernoulli’s equation expresses the principle of conservation of mechanical energy for a flowing fluid, stating that the total energy (sum of pressure energy, kinetic energy, and potential energy) remains constant along a streamline.",
+        "b": "The correct answer is “Conservation of energy”. The Bernoulli’s equation expresses the principle of conservation of mechanical energy for a flowing fluid, stating that the total energy (sum of pressure energy, kinetic energy, and potential energy) remains constant along a streamline.",
+        "c": "The correct answer is “Conservation of energy”. The Bernoulli’s equation expresses the principle of conservation of mechanical energy for a flowing fluid, stating that the total energy (sum of pressure energy, kinetic energy, and potential energy) remains constant along a streamline.",
+        "d": "The correct answer is “Conservation of energy” The Bernoulli’s equation expresses the principle of conservation of mechanical energy for a flowing fluid, stating that the total energy (sum of pressure energy, kinetic energy, and potential energy) remains constant along a streamline."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "9. Liquid flow rate in large sized pipes can be measured using:",
+      "question": "“9.” Liquid flow rate in large sized pipes can be measured using:",
       "answers": {
         "a": "Speedometer",
         "b": "Lactometer",
@@ -142,16 +142,16 @@
         "d": "Elbow meter"
       },
       "explanations": {
-        "a": "The correct answer is orifice meter. Orifice meters are commonly used to measure the flow rate of liquids in large-sized pipes because they are relatively simple and cost-effective.",
-        "b": "The correct answer is orifice meter. Orifice meters are commonly used to measure the flow rate of liquids in large-sized pipes because they are relatively simple and cost-effective.",
-        "c": "The correct answer is orifice meter. Orifice meters are commonly used to measure the flow rate of liquids in large-sized pipes because they are relatively simple and cost-effective.",
-        "d": "The correct answer is orifice meter. Orifice meters are commonly used to measure the flow rate of liquids in large-sized pipes because they are relatively simple and cost-effective."
+        "a": "The correct answer is “Orifice meter”. Orifice meters are commonly used to measure the flow rate of liquids in large-sized pipes because they are relatively simple and cost-effective.",
+        "b": "The correct answer is “Orifice meter”. Orifice meters are commonly used to measure the flow rate of liquids in large-sized pipes because they are relatively simple and cost-effective.",
+        "c": "The correct answer is “Orifice meter”. Orifice meters are commonly used to measure the flow rate of liquids in large-sized pipes because they are relatively simple and cost-effective.",
+        "d": "The correct answer is “Orifice meter”. Orifice meters are commonly used to measure the flow rate of liquids in large-sized pipes because they are relatively simple and cost-effective."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "10. Assumptions for Bernoulli’s equation:",
+      "question": "“10.” Assumptions for Bernoulli’s equation is that the fluid is:",
       "answers": {
         "a": "Incompressible",
         "b": "Non-viscous",
@@ -159,10 +159,10 @@
         "d": "All of these"
       },
       "explanations": {
-        "a": "The correct answer is all of these. The Bernoulli equation assumes the fluid is incompressible, non-viscous, and the flow is in a steady state, meaning the flow properties do not change with time.",
-        "b": "The correct answer is all of these. The Bernoulli equation assumes the fluid is incompressible, non-viscous, and the flow is in a steady state, meaning the flow properties do not change with time.",
-        "c": "The correct answer is all of these. The Bernoulli equation assumes the fluid is incompressible, non-viscous, and the flow is in a steady state, meaning the flow properties do not change with time.",
-        "d": "The correct answer is all of these. The Bernoulli equation assumes the fluid is incompressible, non-viscous, and the flow is in a steady state, meaning the flow properties do not change with time."
+        "a": "The correct answer is “All of these”. The Bernoulli equation assumes the fluid is incompressible, non-viscous, and the flow is in a steady state, meaning the flow properties do not change with time.",
+        "b": "The correct answer is “All of these”. The Bernoulli equation assumes the fluid is incompressible, non-viscous, and the flow is in a steady state, meaning the flow properties do not change with time.",
+        "c": "The correct answer is “All of these”. The Bernoulli equation assumes the fluid is incompressible, non-viscous, and the flow is in a steady state, meaning the flow properties do not change with time.",
+        "d": "The correct answer is “All of these”. The Bernoulli equation assumes the fluid is incompressible, non-viscous, and the flow is in a steady state, meaning the flow properties do not change with time."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
